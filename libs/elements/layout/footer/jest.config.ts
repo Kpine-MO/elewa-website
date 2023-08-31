@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
-  displayName: 'elements-layout-images',
+  displayName: 'elements-layout-footer',
   preset: '../../../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../../../coverage/libs/elements/layout/images',
+  coverageDirectory: '../../../../coverage/libs/elements/layout/footer',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',

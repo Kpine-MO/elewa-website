@@ -26,6 +26,9 @@
       "@elewa-website/elements/layout/carousel": [
         "libs/elements/layout/carousel/src/index.ts"
       ],
+      "@elewa-website/elements/layout/footer": [
+        "libs/elements/layout/footer/src/index.ts"
+      ],
       "@elewa-website/elements/layout/header": [
         "libs/elements/layout/header/src/index.ts"
       ],
@@ -70,8 +73,7 @@
       ],
       "@elewa-website/models/sections/projects": [
         "libs/models/sections/projects/src/index.ts"
-      ],
-      "@elewa-website/models/ui/images": ["libs/models/ui/images/src/index.ts"]
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
